@@ -26,8 +26,7 @@ Thoughts
 ---
 
 This was probably the most "fun" project that I created in college, and was my one of my first experiences with Visual Studio. It taught me a lot
-about event-driven programming using Windows Form objects and the many ways you can manipulate them. I have often thought of redoing this program
-in a more efficient language now that I am significantly more experienced with programming.
+about event-driven programming using Windows Form objects and the many ways you can manipulate them. I have often thought of redoing this program for a mobile device now that I am significantly more experienced with programming.
 
 
 
@@ -39,4 +38,4 @@ in a more efficient language now that I am significantly more experienced with p
 Author
 ---
 
-This Visual Basic project was created by Anthony Wickham. The project was completed on May 05, 2014.
+This Visual Basic project was created by Anthony Wickham. The project was completed on May 05, 2016.
