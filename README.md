@@ -14,7 +14,7 @@ View additional screenshots:
 Code
 ---
 
-There are two main files which contain the code that I wrote for this game.
+There are two main files within this repository which contain the code that I wrote for this game.
 
 You can view the introduction and character selection code
 [here](https://github.com/wickhama09/SaberWars/blob/master/Final_Anthony_Wickham/FrmGame.vb),  
