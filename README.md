@@ -4,7 +4,12 @@ SaberWars
 SaberWars is the result of my Final Project for a Visual Basic class in college.
 The assignment was to take a classic video game idea and put our own spin on it.
 
-![alt tag](https://cloud.githubusercontent.com/assets/19334063/25257732/14102c3e-2608-11e7-9ff0-d3baad10dfae.jpg)
+
+![alt tag](https://cloud.githubusercontent.com/assets/19334063/25259861/9afcde8c-2616-11e7-8237-724c0ab8fb7e.jpg)
+
+View additional screenshots:  
+[Title Screen](https://cloud.githubusercontent.com/assets/19334063/25257732/14102c3e-2608-11e7-9ff0-d3baad10dfae.jpg)  
+[Character Selection](https://cloud.githubusercontent.com/assets/19334063/25259847/90bdcb52-2616-11e7-87c6-e33c60bdb374.jpg)
 
 Code
 ---
