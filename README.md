@@ -1,7 +1,7 @@
 SaberWars
 ===
 
-SaberWars is a Windows application that I drafted and developed. Designed for 2-Players, this game is a spin-off of the classic video game "Pong".
+SaberWars is a Windows application that I designed and developed. Designed for 2-Players, this game is a spin-off of the classic video game "Pong".
 
 
 ![alt tag](https://cloud.githubusercontent.com/assets/19334063/25259861/9afcde8c-2616-11e7-8237-724c0ab8fb7e.jpg)
