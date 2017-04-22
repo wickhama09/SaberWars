@@ -14,6 +14,7 @@ Features
 ---
 - Animated introduction
 - MIDI Star Wars music for retro style
+- Lightsaber sound effects
 - Character selection
     - Obi-Wan Kenobi
     - Luke Skywalker
